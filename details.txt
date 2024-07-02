@@ -1,0 +1,12 @@
+We need a talented web designer to create a landing page for our distributor site. This landing page should allow our distributors’ customers to purchase our products. Below are the specific requirements:
+
+Landing Page Design: The landing page should be visually appealing, professional, and aligned with our brand identity.
+Current Site: Refer to our existing landing page: Current Distributor Site.https://distributor.bizcard.world/nexom This page currently only supports BizCard creation.
+Content: The new landing page must individually feature all 9 products and 9 services.
+Design References: For design inspiration, refer to the following sites:
+Mailchimp
+Hubspot
+Technical Requirements:
+The landing page design along with HTML.
+The page must be built with Bootstrap 5 -responsive
+Company Site: For information on our products and services, visit BigDot.ai
